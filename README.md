@@ -18,7 +18,7 @@
 
 ```bash
 $ git clone https://github.com/CEHtamil/CEH-BOX.git
-$ cd CEH-box
+$ cd CEH-BOX
 $ sudo chmod +x install.sh
 $ sudo bash install.sh
 $ unzip CEH-BOX.zip
