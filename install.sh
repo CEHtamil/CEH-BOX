@@ -21,6 +21,11 @@ apt install unzip
 clear
 echo "----------------------------------------------"
 echo ""
+apt install pip
+clear
+echo "----------------------------------------------"
+echo ""
+
 
 sleep 4
 clear
